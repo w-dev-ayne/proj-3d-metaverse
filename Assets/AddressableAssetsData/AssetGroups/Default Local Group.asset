@@ -1,0 +1,268 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 68149880fd7432e46a88a5f65edd65f0
+  m_SerializeEntries:
+  - m_GUID: be237fd5ac6cf45139ede0cecf1ad5a8
+    m_Address: Stage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    - init
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fa721dc0ed9b4ae999ddda10b1f813e
+    m_Address: Character
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    - init
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2637ed940c8886742b5f7050116c05ec
+    m_Address: Lab1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    - init
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9f834cdede2d423f974a67674eb98ff
+    m_Address: UI_Instruction
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f2a355da5be5467382edda41b2df751
+    m_Address: UI_Fade
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74d3e7008c0171648ac51dcb2333288f
+    m_Address: UI_Sound
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 548408449d3094f3b94c3dd6c4dce0e3
+    m_Address: UI_LeaderBoard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 894c52b68aee8ac4ea28f5e5ad417665
+    m_Address: UI_InfoPopup
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61656c4253d3d459b943536f67260ff2
+    m_Address: UI_Inventory
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6530dc7b15bec407bb33da85c1098d90
+    m_Address: UI_Main
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1d89ddd11bc94b6b9ebedb8cac141e5
+    m_Address: UI_Quiz
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b864b5edb6e7e4b7a9ef27cdee1b7795
+    m_Address: UI_Help
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9642e92904d52447a9b5504c657691dd
+    m_Address: UI_Exit
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42d8be6ec80e83949b45fc110bc3b254
+    m_Address: UI_Teleport
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b68fdddc6f91742b59d911cc63da6e87
+    m_Address: UI_Init
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a167d0705a334ff293e027f4bafe3cb
+    m_Address: UI_Quest
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a214c5c1f4c14ec99698507085ace2b
+    m_Address: UI_Workbench
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 858ca2142446045dd9a34b7dc56aa272
+    m_Address: UI_Info
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b8781a967e34655a8c138ff05d6e03
+    m_Address: Assets/Sound/Pop Up.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6b2e87fb8e054211a0c3cdf19992154
+    m_Address: Assets/Sound/Space Meditation.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e55a4e00b6444dc8b2ada041ccc5f75
+    m_Address: Assets/Sound/Event Notification Wrong.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8ab0e8bfa5364533ba1ce1841d1bfd9
+    m_Address: Assets/Sound/Retro Fantasy Reveal 3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4501d277d985843dfb302eaf8b7970e2
+    m_Address: Assets/Sound/UI_SCI_FI_Expand_01.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6ff2e217309d46d49d6a57ca160941c
+    m_Address: Assets/Sound/Chirp Ui or Notification.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89620c7c104e6400f981c416274870fb
+    m_Address: Assets/Sound/UI_NOTIFICATION_Signal_11.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d4676c9bb34d42c594b75099479f2ff
+    m_Address: Assets/Sound/Incorrect Answer Fail.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79b92f665d7c14a2ea73e66ca8d74bc8
+    m_Address: Assets/Sound/UI_NOTIFICATION_Bleep_02.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80ba8fdea6e964ed994bd031cb654752
+    m_Address: Assets/Sound/Fantasy Shine Reveal.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7e6c7d586acb41caac8bb9e4e8a8fce
+    m_Address: Assets/Sound/UI_NOTIFICATION_Bell_08.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0af71b826089641768274267de2e1907
+    m_Address: Assets/Sound/Scifi mini accept.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 729a99ddb4c604ddfb7c8360017add16
+    m_Address: Assets/Sound/Pop Low.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 731c560e65b8244089d8123d09a38d6f
+    m_Address: Assets/Sound/Correct Answer.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1878a18ebeff549fb82c5d37b8831558
+    m_Address: Assets/Sound/Scifi mini fail.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fee0300f0f203423d93e7aa00c255ea0
+    m_Address: Assets/Sound/UI_NOTIFICATION_Bleep_09.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 308e4a95b70864c208e31fbea3bcf213
+    m_Address: Assets/Sound/Fantasy Shine RPG Spell.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 706f24c976fc746e0a91454e96f4916f
+    m_Address: Assets/Sound/Technology and Science.wav
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - sound
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d267908eff0314abfb1f6e8aca19e7ab
+    m_Address: UI_DNA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6d1ca91c655410c4981f200e916a60c4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8f8f7a4293a26744bb518756193e3459, type: 2}
+    - {fileID: 11400000, guid: 03589ad2c5e1e504ba6f2522d74105a1, type: 2}

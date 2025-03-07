@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 587a3897a32fb44b9ba3d5edfeb1118c, type: 3}
+  m_Name: QuestSet Data
+  m_EditorClassIdentifier: 
+  index: 2
+  quests:
+  - {fileID: 11400000, guid: 438c9fd4c65ef894c94e27e2bba511ed, type: 2}
+  - {fileID: 11400000, guid: 0fceb7b70eda06249a06217add6d04aa, type: 2}
+  - {fileID: 11400000, guid: dc6a5396848ac417d870d1135822bdba, type: 2}
+  - {fileID: 11400000, guid: e94918549a76f4bad9f06d78db253cd6, type: 2}
+  - {fileID: 11400000, guid: 5c8343ea401624eec888173ce8203278, type: 2}
+  - {fileID: 11400000, guid: 3ff03529162f64d1a8719e9f2475d6cd, type: 2}
+  - {fileID: 11400000, guid: 91ba965884168b6409b6eb277f737fd0, type: 2}
+  - {fileID: 11400000, guid: dfbda2dba067dfa43bef5c6047d189bf, type: 2}
+  - {fileID: 11400000, guid: 0b3868f9d993d1841bc091f888e7e6be, type: 2}
+  - {fileID: 11400000, guid: df0c4934fe6354d5f9b128b04be9dad5, type: 2}
+  - {fileID: 11400000, guid: fbc614a8ef8b14e50b3310c50f099203, type: 2}
+  currentQuest: {fileID: 0}

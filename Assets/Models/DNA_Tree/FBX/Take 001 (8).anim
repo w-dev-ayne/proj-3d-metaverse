@@ -1,0 +1,1293 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Take 001 (8)
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018558946, y: 0.05691516, z: 0.37815034, w: 0.92380655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.018558946, y: 0.05691516, z: 0.37815034, w: 0.92380655}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchH_01/BranchH_02/BranchH_03/BranchH_04/BranchH_05/BranchH_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.252783, y: 0.28774768, z: 0.54890573, w: 0.74297017}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.250001
+        value: {x: -0.252783, y: 0.28774768, z: 0.54890573, w: 0.74297017}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.12598155, y: -0.11345445, z: 0.4891965, w: 0.855537}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.75000095
+        value: {x: 0.12598155, y: -0.11345445, z: 0.4891965, w: 0.855537}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.8114181, y: -0.440452, z: 0.10750634, w: 0.36884284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.083334
+        value: {x: 0.8114181, y: -0.440452, z: 0.10750634, w: 0.36884284}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_03_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.64588964, y: -0.36851373, z: 0.05209171, w: 0.6665663}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.15000057
+        value: {x: 0.64588964, y: -0.36851373, z: 0.05209171, w: 0.6665663}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_08_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.49279124, y: -0.65769213, z: 0.1022475, w: 0.5604849}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 0.49279124, y: -0.65769213, z: 0.1022475, w: 0.5604849}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.40407872, y: 0.41812393, z: 0.22576009, w: 0.781617}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.40407872, y: 0.41812393, z: 0.22576009, w: 0.781617}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.12434036, y: -0.1508308, z: 0.2496867, w: 0.9483913}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 0.12434036, y: -0.1508308, z: 0.2496867, w: 0.9483913}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.60093844, y: -0.46152434, z: -0.17715251, w: 0.6280806}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 0.60093844, y: -0.46152434, z: -0.17715251, w: 0.6280806}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_05/BranchE_06/BranchE_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.19417149, y: 0.15434946, z: 0.44204128, w: 0.8620169}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.19417149, y: 0.15434946, z: 0.44204128, w: 0.8620169}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_05/BranchE_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.015507914, y: -0.06715113, z: 0.23019934, w: 0.9707}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 0.015507914, y: -0.06715113, z: 0.23019934, w: 0.9707}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_04_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.3121713, y: 0.39733613, z: -0.17662027, w: 0.8446765}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: -0.3121713, y: 0.39733613, z: -0.17662027, w: 0.8446765}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_04_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.21171786, y: 0.26723513, z: 0.38886058, w: 0.8558904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: -0.21171786, y: 0.26723513, z: 0.38886058, w: 0.8558904}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchF_01/BranchF_02/BranchF_03/BranchF_04/BranchF_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.6700572, y: -0.5456267, z: -0.16751371, w: -0.47460932}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 0.6700572, y: -0.5456267, z: -0.16751371, w: -0.47460932}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_06/BranchA_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.8884473, y: -0.4573411, z: 0.0114195, w: 0.03701538}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 0.8884473, y: -0.4573411, z: 0.0114195, w: 0.03701538}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_05_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.22449948, y: -0.13619877, z: 0.34817848, w: 0.8999009}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.58333397
+        value: {x: 0.22449948, y: -0.13619877, z: 0.34817848, w: 0.8999009}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_05_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.046247605, y: -0.113711745, z: 0.50685245, w: 0.8532476}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: -0.046247605, y: -0.113711745, z: 0.50685245, w: 0.8532476}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.15208988, y: 0.57914877, z: 0.1985883, w: 0.77589834}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: -0.15208988, y: 0.57914877, z: 0.1985883, w: 0.77589834}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchB_01/BranchB_02/BranchB_03/BranchB_04/BranchB_05/BranchB_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.30911347, y: 0.26146606, z: 0.32259163, w: 0.8555811}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.250001
+        value: {x: -0.30911347, y: 0.26146606, z: 0.32259163, w: 0.8555811}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchC_03/BranchC_04/BranchC_05/BranchC_06/BranchC_07/BranchC_07_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.44287828, y: 0.38065135, z: 0.24891454, w: 0.77266103}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.15000057
+        value: {x: -0.44287828, y: 0.38065135, z: 0.24891454, w: 0.77266103}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchC_03/BranchC_04/BranchC_05/BranchC_06/BranchC_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.3780126, y: 0.78958404, z: -0.25939313, w: -0.40789548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.41666698
+        value: {x: -0.3780126, y: 0.78958404, z: -0.25939313, w: -0.40789548}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_05/BranchD_06/BranchD_07/BranchD_08/BranchD_08_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5397031, y: -0.40710667, z: 0.3460805, w: 0.6505482}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 0.5397031, y: -0.40710667, z: 0.3460805, w: 0.6505482}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_05/BranchD_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.04590084, y: -0.07170014, z: 0.29532096, w: 0.95159745}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 0.04590084, y: -0.07170014, z: 0.29532096, w: 0.95159745}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_04_Leaf
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchH_01/BranchH_02/BranchH_03/BranchH_04/BranchH_05/BranchH_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15709266, y: 0.15709266, z: 0.15709266}
+        inSlope: {x: 0.6743844, y: 0.6743844, z: 0.6743844}
+        outSlope: {x: 0.6743844, y: 0.6743844, z: 0.6743844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.4333334
+        value: {x: 0.515483, y: 0.515483, z: 0.515483}
+        inSlope: {x: 0.898621, y: 0.898621, z: 0.898621}
+        outSlope: {x: 0.898621, y: 0.898621, z: 0.898621}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.250001
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        outSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.5750792, y: 0.5750792, z: 0.5750792}
+        inSlope: {x: 0.8874667, y: 0.8874667, z: 0.8874667}
+        outSlope: {x: 0.8874667, y: 0.8874667, z: 0.8874667}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.75000095
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        outSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.28247637, y: 0.28247637, z: 0.28247637}
+        inSlope: {x: 0.81821364, y: 0.81821364, z: 0.81821364}
+        outSlope: {x: 0.81821364, y: 0.81821364, z: 0.81821364}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 0.50049996, y: 0.50049996, z: 0.50049996}
+        inSlope: {x: 0.89897954, y: 0.89897954, z: 0.89897954}
+        outSlope: {x: 0.89897954, y: 0.89897954, z: 0.89897954}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0666676
+        value: {x: 0.9997023, y: 0.9997023, z: 0.9997023}
+        inSlope: {x: 0.03548286, y: 0.03548286, z: 0.03548286}
+        outSlope: {x: 0.03548286, y: 0.03548286, z: 0.03548286}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.083334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_09/BranchG_09_03_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9788564, y: 0.9788564, z: 0.9788564}
+        inSlope: {x: 0.27329823, y: 0.27329823, z: 0.27329823}
+        outSlope: {x: 0.27329823, y: 0.27329823, z: 0.27329823}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666756
+        value: {x: 0.99329495, y: 0.99329495, z: 0.99329495}
+        inSlope: {x: 0.15814945, y: 0.15814945, z: 0.15814945}
+        outSlope: {x: 0.15814945, y: 0.15814945, z: 0.15814945}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.15000057
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.016519083, y: 0.016519083, z: 0.016519083}
+        outSlope: {x: 0.016519083, y: 0.016519083, z: 0.016519083}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_07/BranchG_08/BranchG_08_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.4258324, y: 0.4258324, z: 0.4258324}
+        inSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        outSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.10000038
+        value: {x: 0.5154834, y: 0.5154834, z: 0.5154834}
+        inSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        outSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_06/BranchG_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_05/BranchG_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchG_01/BranchG_02/BranchG_03/BranchG_04/BranchG_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.4258324, y: 0.4258324, z: 0.4258324}
+        inSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        outSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.10000038
+        value: {x: 0.5154834, y: 0.5154834, z: 0.5154834}
+        inSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        outSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_05/BranchE_06/BranchE_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_05/BranchE_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_04_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchE_02/BranchE_03/BranchE_04/BranchE_04_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchE_01/BranchF_01/BranchF_02/BranchF_03/BranchF_04/BranchF_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.4258324, y: 0.4258324, z: 0.4258324}
+        inSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        outSlope: {x: 0.8900677, y: 0.8900677, z: 0.8900677}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.10000038
+        value: {x: 0.5154834, y: 0.5154834, z: 0.5154834}
+        inSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        outSlope: {x: 0.89862525, y: 0.89862525, z: 0.89862525}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_06/BranchA_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_05_01_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.71852356, y: 0.71852356, z: 0.71852356}
+        inSlope: {x: 0.8182138, y: 0.8182138, z: 0.8182138}
+        outSlope: {x: 0.8182138, y: 0.8182138, z: 0.8182138}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.56666756
+        value: {x: 0.9997023, y: 0.9997023, z: 0.9997023}
+        inSlope: {x: 0.03548286, y: 0.03548286, z: 0.03548286}
+        outSlope: {x: 0.03548286, y: 0.03548286, z: 0.03548286}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.58333397
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_03/BranchA_04/BranchA_05/BranchA_05_02_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchA_02/BranchA_04_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchA_01/BranchB_01/BranchB_02/BranchB_03/BranchB_04/BranchB_05/BranchB_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.15709266, y: 0.15709266, z: 0.15709266}
+        inSlope: {x: 0.6743844, y: 0.6743844, z: 0.6743844}
+        outSlope: {x: 0.6743844, y: 0.6743844, z: 0.6743844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.4333334
+        value: {x: 0.515483, y: 0.515483, z: 0.515483}
+        inSlope: {x: 0.898621, y: 0.898621, z: 0.898621}
+        outSlope: {x: 0.898621, y: 0.898621, z: 0.898621}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.250001
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        outSlope: {x: 0.017862763, y: 0.017862763, z: 0.017862763}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchC_03/BranchC_04/BranchC_05/BranchC_06/BranchC_07/BranchC_07_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9788564, y: 0.9788564, z: 0.9788564}
+        inSlope: {x: 0.27329823, y: 0.27329823, z: 0.27329823}
+        outSlope: {x: 0.27329823, y: 0.27329823, z: 0.27329823}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.06666756
+        value: {x: 0.99329495, y: 0.99329495, z: 0.99329495}
+        inSlope: {x: 0.15814945, y: 0.15814945, z: 0.15814945}
+        outSlope: {x: 0.15814945, y: 0.15814945, z: 0.15814945}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.15000057
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.016519083, y: 0.016519083, z: 0.016519083}
+        outSlope: {x: 0.016519083, y: 0.016519083, z: 0.016519083}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchC_03/BranchC_04/BranchC_05/BranchC_06/BranchC_06_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.84203297, y: 0.84203297, z: 0.84203297}
+        inSlope: {x: 0.6698887, y: 0.6698887, z: 0.6698887}
+        outSlope: {x: 0.6698887, y: 0.6698887, z: 0.6698887}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.41666698
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_05/BranchD_06/BranchD_07/BranchD_08/BranchD_08_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9371542, y: 0.9371542, z: 0.9371542}
+        inSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        outSlope: {x: 0.4595925, y: 0.4595925, z: 0.4595925}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.25
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        outSlope: {x: 0.017863784, y: 0.017863784, z: 0.017863784}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_05/BranchD_05_Leaf
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99869984, y: 0.99869984, z: 0.99869984}
+        inSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        outSlope: {x: 0.06327554, y: 0.06327554, z: 0.06327554}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.03333378
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        outSlope: {x: 0.015607119, y: 0.015607119, z: 0.015607119}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Truck_01/Truck_02/Truck_03/Truck_04/Truck_05/Truck_06/BranchC_01/BranchC_02/BranchD_01/BranchD_02/BranchD_03/BranchD_04/BranchD_04_Leaf
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.250001
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []

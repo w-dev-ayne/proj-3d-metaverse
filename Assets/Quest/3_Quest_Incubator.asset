@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e6733557f4e4ffca21ad78528612de, type: 3}
+  m_Name: 3_Quest_Incubator
+  m_EditorClassIdentifier: 
+  type: 1
+  state: 2
+  title: Go To Incubator
+  info: "\uBD80\uD654\uAE30\uB85C \uC774\uB3D9\uD558\uC138\uC694."
+  icon: {fileID: 21300000, guid: 5ab908019236c4c1f93b9a26bbf38e17, type: 3}
+  engInfo: 'You''ve collected all the alphabets. Now, when you put them together
+    like this, boom!
+
+    Place this DNA in the capsule in the lab, and I''ll tell
+    you your next quest.'
+  korInfo: "\uBD80\uD654\uAE30\uB85C \uC774\uB3D9\uD558\uC138\uC694."
+  eventZoneID: 1
+  eventZone: {fileID: 0}
+  collectItemType: 5

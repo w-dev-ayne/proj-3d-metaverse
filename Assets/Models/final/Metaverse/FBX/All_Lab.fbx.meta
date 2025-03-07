@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 2c79d13af4186f443bb0abd8c9f56ff6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: A_ComputerConsole_Screen_MTL
+    second: {fileID: 2100000, guid: 833e76521b551ac4db27a86bd86bca61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Airlock_DIFF
+    second: {fileID: 2100000, guid: ae5bd483cbe7f504cb6fb9752e4ffe9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapsuleChamber_DIFF
+    second: {fileID: 2100000, guid: 2b4eb3ded384fe249880845f4bf794f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling_Base_Color
+    second: {fileID: 2100000, guid: 55505f4621b37ff4392db49c2590f385, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chemistry_Albedo_Diff_
+    second: {fileID: 2100000, guid: 60e5c0617ccd2844b9776b6bb2894e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ComputerConsole_DIFF
+    second: {fileID: 2100000, guid: 0c4692b03b266b24c878aab0c4d9653f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CultivaterCell_DIFF
+    second: {fileID: 2100000, guid: ae56f88662c535045ab785f534fa29d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CultivaterCell_Glass_MTL
+    second: {fileID: 2100000, guid: 4c547e7d9685489459e3396bc760e656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CultivaterCell_Monitor_Screen_MTL
+    second: {fileID: 2100000, guid: f2ffd0c9ce7ec994687579c523cf926a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CultivaterCell_Screen_MTL
+    second: {fileID: 2100000, guid: bd2c638be81eb4f478ad0b46bb1788eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 501c68ee2725e034193f44bdbc8868fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Rack_Diff
+    second: {fileID: 2100000, guid: b3257cc06263b9949a1ff975edc349da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Display_Screen_MTL
+    second: {fileID: 2100000, guid: 7611d935bdc519f46ab02d1075890b91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Displays_DIFF
+    second: {fileID: 2100000, guid: 222a6df0c1a622f41a44e438eac39f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Electronic_Scale_Props_Diff
+    second: {fileID: 2100000, guid: 273aeb7857d4f4742bdac4dea8318bd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Equipment_DIFF
+    second: {fileID: 2100000, guid: eec3884d2b2431f418b50e98a576fe74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flasks_B1_Diff_png
+    second: {fileID: 2100000, guid: b6059f667ce667241a2966e2d6171248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Diff
+    second: {fileID: 2100000, guid: c548fe60a683f764f9738a0a2cd06e86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 44b7af0efa178ec4f8759b08965e7004, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassFlask
+    second: {fileID: 2100000, guid: da57fcc532543cb4aaa2c2dd1a018e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlassPanel1
+    second: {fileID: 2100000, guid: 14ed2957fc21c7d4c90d4f62b18f26a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HazardRes_DIFF
+    second: {fileID: 2100000, guid: 446b1f81ef5abe549805e4a72d8ba063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: High_chair_BaseMap
+    second: {fileID: 2100000, guid: 80a573838837e3549ab5175fffa2d6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LabDesk_DIFF
+    second: {fileID: 2100000, guid: 7048c63af3d14824fade5503080c4495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LabFurniture_DIFF
+    second: {fileID: 2100000, guid: f15d1ee11babe224daf0a7c00dc20acc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LabTank_DIFF
+    second: {fileID: 2100000, guid: 42a00aaea2308b14bbd9b156842e81a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf
+    second: {fileID: 2100000, guid: c11f3beeed4355549b1e59c26ecebde1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf2
+    second: {fileID: 2100000, guid: 5a7817a81b0c29b4db5ae02e623818ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_DIFF
+    second: {fileID: 2100000, guid: 97a2e8d70997aae41aaf964b1d9b1cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_Diff
+    second: {fileID: 2100000, guid: 84ed1f1491e9e924d8f9149d5df5542d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Liquid_Albedo
+    second: {fileID: 2100000, guid: 5f4568dca8beee74b99ed02352c0cb6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalItem_DIFF
+    second: {fileID: 2100000, guid: c791986b861f02e4882cd14d514591c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Box_Diff
+    second: {fileID: 2100000, guid: aeff8d424eb6ff440973016ab24c1c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_wall_Diff
+    second: {fileID: 2100000, guid: b6b2a19588486b24080cb6ddd095ed23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Microscope_DIFF
+    second: {fileID: 2100000, guid: 3f7c2884c67d7924183ce8ce45c04ce3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Molding_Mtl
+    second: {fileID: 2100000, guid: 65e0c6aa1f91f86468e7ce49d65de51c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillar_Mtl
+    second: {fileID: 2100000, guid: a7590259e948e674d9198acf7cbb04cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant2_BaseMap
+    second: {fileID: 2100000, guid: 75c27a3e0994d50488404133de4fe365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlantChamber_DIFF
+    second: {fileID: 2100000, guid: b54cb0989269b814684c878931314484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planter_Pot_BaseMap
+    second: {fileID: 2100000, guid: d0b9348bc82f5634089c8d3c811a68d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prop_DIFF
+    second: {fileID: 2100000, guid: 1c701176b3159244bbb56c793f337b8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roff_Diff
+    second: {fileID: 2100000, guid: dfb3be0ffd753f74ebded9c62e9d2c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SciFiBox_Screen_MTL
+    second: {fileID: 2100000, guid: 491879c304419084a9754d0c0781d735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sci_Fi_Wall_Diff
+    second: {fileID: 2100000, guid: f881fc5c71ae6fe40ba070c5c809f0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Scifi_box_Diff
+    second: {fileID: 2100000, guid: f02d98a01a4f19b4ea844ce98ffeb269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SlideDoor2
+    second: {fileID: 2100000, guid: 9eaf531ce5e4ced4d89739631a33b043, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steel_Light_Diff
+    second: {fileID: 2100000, guid: 550ef9300ca345243880b87a6042152b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stool1_DIFF
+    second: {fileID: 2100000, guid: 2929a9af15c326d4e92858c8f55a221a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TGlass
+    second: {fileID: 2100000, guid: 34a6f4f51d8ad6d4184afdac03ca5024, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_A_Diff
+    second: {fileID: 2100000, guid: e2c8888709f107548babfbf67257ff5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_Chair_Diff
+    second: {fileID: 2100000, guid: 6b7610387d40e4b438e87e14dd681e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table_Lab_Diff
+    second: {fileID: 2100000, guid: a0b08a8c7288a3a4098292030b7db1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Test_Tube_Maicro_Diff
+    second: {fileID: 2100000, guid: 6a437144442afb847b8d3275b203e56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_DIFF
+    second: {fileID: 2100000, guid: e31b35915ae18414cad494dec72f6363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowFrame_DIFF
+    second: {fileID: 2100000, guid: 75d06eeba421eba4fb05e58d7c343e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lab_beaker_a
+    second: {fileID: 2100000, guid: 6df8ea70696e7064e9679650ff0743fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lab_cylinder_Tube_Diff_png
+    second: {fileID: 2100000, guid: 3158f734e7e23924186efa96f9df27ad, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

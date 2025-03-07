@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e6733557f4e4ffca21ad78528612de, type: 3}
+  m_Name: 0_Quest_NPC
+  m_EditorClassIdentifier: 
+  type: 1
+  state: 1
+  title: Go To NPC
+  info: "NPC\uB97C \uCC3E\uC544\uAC00 \uD018\uC2A4\uD2B8\uB97C \uC9C4\uD589\uD558\uC138\uC694."
+  icon: {fileID: 21300000, guid: c977d1785a0fc44019acd6223f68aa4d, type: 3}
+  engInfo: Visit NPCs to complete quests.
+  korInfo: "NPC\uB97C \uCC3E\uC544\uAC00 \uD018\uC2A4\uD2B8\uB97C \uC9C4\uD589\uD558\uC138\uC694."
+  eventZoneID: 0
+  eventZone: {fileID: 0}
+  collectItemType: 5
